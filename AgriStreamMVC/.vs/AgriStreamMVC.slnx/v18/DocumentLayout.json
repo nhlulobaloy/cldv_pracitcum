@@ -1,0 +1,158 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nhlul\\source\\repos\\AgriStreamSolution\\AgriStreamMVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{818FCF98-73F8-988D-52DA-6C6981CFC47D}|AgriStreamMVC\\AgriStreamMVC.csproj|c:\\users\\nhlul\\source\\repos\\agristreamsolution\\agristreammvc\\agristreammvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{818FCF98-73F8-988D-52DA-6C6981CFC47D}|AgriStreamMVC\\AgriStreamMVC.csproj|solutionrelative:agristreammvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{818FCF98-73F8-988D-52DA-6C6981CFC47D}|AgriStreamMVC\\AgriStreamMVC.csproj|c:\\users\\nhlul\\source\\repos\\agristreamsolution\\agristreammvc\\agristreammvc\\agristreammvc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{818FCF98-73F8-988D-52DA-6C6981CFC47D}|AgriStreamMVC\\AgriStreamMVC.csproj|solutionrelative:agristreammvc\\agristreammvc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{818FCF98-73F8-988D-52DA-6C6981CFC47D}|AgriStreamMVC\\AgriStreamMVC.csproj|c:\\users\\nhlul\\source\\repos\\agristreamsolution\\agristreammvc\\agristreammvc\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{818FCF98-73F8-988D-52DA-6C6981CFC47D}|AgriStreamMVC\\AgriStreamMVC.csproj|solutionrelative:agristreammvc\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{818FCF98-73F8-988D-52DA-6C6981CFC47D}|AgriStreamMVC\\AgriStreamMVC.csproj|c:\\users\\nhlul\\source\\repos\\agristreamsolution\\agristreammvc\\agristreammvc\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{818FCF98-73F8-988D-52DA-6C6981CFC47D}|AgriStreamMVC\\AgriStreamMVC.csproj|solutionrelative:agristreammvc\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{818FCF98-73F8-988D-52DA-6C6981CFC47D}|AgriStreamMVC\\AgriStreamMVC.csproj|c:\\users\\nhlul\\source\\repos\\agristreamsolution\\agristreammvc\\agristreammvc\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{818FCF98-73F8-988D-52DA-6C6981CFC47D}|AgriStreamMVC\\AgriStreamMVC.csproj|solutionrelative:agristreammvc\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{818FCF98-73F8-988D-52DA-6C6981CFC47D}|AgriStreamMVC\\AgriStreamMVC.csproj|c:\\users\\nhlul\\source\\repos\\agristreamsolution\\agristreammvc\\agristreammvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{818FCF98-73F8-988D-52DA-6C6981CFC47D}|AgriStreamMVC\\AgriStreamMVC.csproj|solutionrelative:agristreammvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{818FCF98-73F8-988D-52DA-6C6981CFC47D}|AgriStreamMVC\\AgriStreamMVC.csproj|c:\\users\\nhlul\\source\\repos\\agristreamsolution\\agristreammvc\\agristreammvc\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{818FCF98-73F8-988D-52DA-6C6981CFC47D}|AgriStreamMVC\\AgriStreamMVC.csproj|solutionrelative:agristreammvc\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{818FCF98-73F8-988D-52DA-6C6981CFC47D}|AgriStreamMVC\\AgriStreamMVC.csproj|c:\\users\\nhlul\\source\\repos\\agristreamsolution\\agristreammvc\\agristreammvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{818FCF98-73F8-988D-52DA-6C6981CFC47D}|AgriStreamMVC\\AgriStreamMVC.csproj|solutionrelative:agristreammvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AgriStreamMVC.csproj",
+              "DocumentMoniker": "C:\\Users\\nhlul\\source\\repos\\AgriStreamSolution\\AgriStreamMVC\\AgriStreamMVC\\AgriStreamMVC.csproj",
+              "RelativeDocumentMoniker": "AgriStreamMVC\\AgriStreamMVC.csproj",
+              "ToolTip": "C:\\Users\\nhlul\\source\\repos\\AgriStreamSolution\\AgriStreamMVC\\AgriStreamMVC\\AgriStreamMVC.csproj",
+              "RelativeToolTip": "AgriStreamMVC\\AgriStreamMVC.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-11-06T09:49:34.391Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "C:\\Users\\nhlul\\source\\repos\\AgriStreamSolution\\AgriStreamMVC\\AgriStreamMVC\\Controllers\\DashboardController.cs",
+              "RelativeDocumentMoniker": "AgriStreamMVC\\Controllers\\DashboardController.cs",
+              "ToolTip": "C:\\Users\\nhlul\\source\\repos\\AgriStreamSolution\\AgriStreamMVC\\AgriStreamMVC\\Controllers\\DashboardController.cs",
+              "RelativeToolTip": "AgriStreamMVC\\Controllers\\DashboardController.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAcwFQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-06T09:21:29.996Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nhlul\\source\\repos\\AgriStreamSolution\\AgriStreamMVC\\AgriStreamMVC\\Program.cs",
+              "RelativeDocumentMoniker": "AgriStreamMVC\\Program.cs",
+              "ToolTip": "C:\\Users\\nhlul\\source\\repos\\AgriStreamSolution\\AgriStreamMVC\\AgriStreamMVC\\Program.cs",
+              "RelativeToolTip": "AgriStreamMVC\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-06T09:19:59.121Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\nhlul\\source\\repos\\AgriStreamSolution\\AgriStreamMVC\\AgriStreamMVC\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "AgriStreamMVC\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\nhlul\\source\\repos\\AgriStreamSolution\\AgriStreamMVC\\AgriStreamMVC\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "AgriStreamMVC\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-06T09:20:56.085Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\nhlul\\source\\repos\\AgriStreamSolution\\AgriStreamMVC\\AgriStreamMVC\\Models\\User.cs",
+              "RelativeDocumentMoniker": "AgriStreamMVC\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\nhlul\\source\\repos\\AgriStreamSolution\\AgriStreamMVC\\AgriStreamMVC\\Models\\User.cs",
+              "RelativeToolTip": "AgriStreamMVC\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-06T09:20:30.81Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\nhlul\\source\\repos\\AgriStreamSolution\\AgriStreamMVC\\AgriStreamMVC\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "AgriStreamMVC\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\nhlul\\source\\repos\\AgriStreamSolution\\AgriStreamMVC\\AgriStreamMVC\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "AgriStreamMVC\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-06T09:38:20.99Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\nhlul\\source\\repos\\AgriStreamSolution\\AgriStreamMVC\\AgriStreamMVC\\Views\\Dashboard\\Index.cshtml",
+              "RelativeDocumentMoniker": "AgriStreamMVC\\Views\\Dashboard\\Index.cshtml",
+              "ToolTip": "C:\\Users\\nhlul\\source\\repos\\AgriStreamSolution\\AgriStreamMVC\\AgriStreamMVC\\Views\\Dashboard\\Index.cshtml",
+              "RelativeToolTip": "AgriStreamMVC\\Views\\Dashboard\\Index.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAIwCIAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-06T09:22:52.388Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\nhlul\\source\\repos\\AgriStreamSolution\\AgriStreamMVC\\AgriStreamMVC\\appsettings.json",
+              "RelativeDocumentMoniker": "AgriStreamMVC\\appsettings.json",
+              "ToolTip": "C:\\Users\\nhlul\\source\\repos\\AgriStreamSolution\\AgriStreamMVC\\AgriStreamMVC\\appsettings.json",
+              "RelativeToolTip": "AgriStreamMVC\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAACMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-11-06T09:19:36.726Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
